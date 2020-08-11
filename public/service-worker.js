@@ -9,6 +9,8 @@ const FILES_TO_CACHE = [
   '/icons/icon-512x512.png'
 ];
 
+// something is still wrong with FILES_TO_CACHE, not sure what?
+
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
